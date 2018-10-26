@@ -1,0 +1,45 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+	<head>
+		<!--The head contains all of the confirguration items for our page-->
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta content="en-us" http-equiv="Content-Language" />
+		<title>Happy October</title>
+		<link href="style.css" type="text/css" rel="stylesheet" />
+	</head>
+
+	<body>
+		<!--The body contains all of the content for our page-->
+    <h1 class="fixit" >Spooky!</h1>
+		<div>
+			<a href="#anchor"> Click here for the pie list</a>
+			<p class="purple" class="giant"><font color="orange">October</font> is the <strong>spookiest</strong> month of the year.</p>
+			<p>Very spooky!</p>
+			<img class="rela" src="https://i.imgur.com/Rmkne49.gif" alt="spooky"/>
+			<h2><font color="orange">Top Spooky Halloween Things!!</font></h2>
+			<ol>
+				<li class="shouting">Discount Halloween candy</li>
+				<li>Great excuse to wear costumes</li>
+				<li>Pumpkin carving</li>
+			</ol>
+			<div class="box">
+       <p class="purple"class="abso"> 	Now it's time to</p>
+       <a href="example.html">Trick or treat</a>
+      </div>
+			<p class="greeny">Top fall pie flavours:</p>
+			<ul>
+				<li>Apple</li>
+				<li class="fancy">Pumpkin</li>
+				<li>Pecan</li>
+			</ul>
+			<a name="anchor">Yum now that's good pie. looks like someone ate too much</a>
+			<img src="chubmander.jpg" alt="charmander ate too much pie"/>
+			<p class="greeny"> Oh yeah and also happy Thanksgiving I <em>guess.</em><a href="http://www.jellotime.com">Have some jello.</a></p>
+		</div>
+
+	</body>
+
+</html>

@@ -1,0 +1,50 @@
+body{
+	font-size:20px;
+}
+
+.giant{
+	font-size:50px;
+}
+
+.greeny{
+	color:teal;
+	text-decoration:underline;
+}
+
+.fancy{
+font-family: cursive;
+}
+.shouting{
+  text-transform: uppercase;
+}
+
+div p.purple{
+	background-color:purple;
+  color: white;
+}
+
+div p{
+	background-color:yellow;
+}
+p + p{
+	color:purple;
+}
+.box{
+margin-top:25px;
+margin-right:15%;
+margin-bottom:25px;
+margin-left:15%;
+border-style: dashed;
+border-color: teal;
+border-width: thick;
+padding: 15px 25% 15px 25%;
+}
+.fixit{
+  position: fixed;
+}
+.abso{
+  position: absolute;
+}
+.rela{
+  position: relative;
+}
